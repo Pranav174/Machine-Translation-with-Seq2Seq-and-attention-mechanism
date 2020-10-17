@@ -2,5 +2,5 @@ __pycache__
 .ipynb_checkpoints
 glove.6B.300d.txt
 hi
-results/seq2seq*
+# results/seq2se
 results\ \(copy\)
