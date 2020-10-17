@@ -10,4 +10,4 @@ By - Pranav Goyal
    ![seq2seq_with_attention](seq2seq_with_attention.png)
 
 ## Results
-Translated results of both models can be found in `results/test_seq2seq_with_attention.csv`
+Translated results of both models can be found in `results/test_translations.csv`
